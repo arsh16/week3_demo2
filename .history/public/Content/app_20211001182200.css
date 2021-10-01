@@ -14,11 +14,8 @@ ul{
     width: 4.2%; height: 4.2%; float: right; margin-right: 7%;  padding-top: 2%;
 }
 .descriptionOfProjects{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: medium; color: rgb(34, 34, 34);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: medium; color: rgb(145, 73, 73);
 }
 h2{
-    color:rgb(238, 46, 46);
-}
-.logo{
-    width: 50%;
+    color:red;
 }
